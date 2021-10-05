@@ -3,7 +3,7 @@
 -	Implement the basic functionalities of a mail server, including manipulation of mails, attachments and contacts.
 -	Searching and Sorting based on different attributes.
 -	Any file type is supported as attachment.
--	Designed an efficient json schema to store Data.
+-	Designed an efficient JSON  schema to store Data.
 -	Utilized: Vue.js, Vuetify, spring boot, JavaScript, and Java.
 
 video link for this project : 
